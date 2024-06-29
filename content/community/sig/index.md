@@ -21,7 +21,7 @@ Please read more about the [GCB and SIGs](/community/governance/gcb/) and on [ho
 <div class="card-deck">
 
 <!-- Metabolomics -->
-<div class="card" style="min-width: 12rem; max-width: 20rem">
+<!-- <div class="card" style="min-width: 12rem; max-width: 20rem">
 <a href="https://metabolomics.usegalaxy.eu">
 <div class="card-header bg-wg-applied text-white text-center">Metabolomics</div>
 </a>
@@ -31,7 +31,7 @@ Community-driven metabolomics Galaxy service. The main aim is to give people a p
 * [<i class="fa fa-envelope" aria-hidden="true">&nbsp; &nbsp;Mailing List</i>](https://lists.galaxyproject.org/lists/metabolomics.lists.galaxyproject.org/)
 * [<i class="fa fa-solid fa-graduation-cap">&nbsp; &nbsp;GTN</i>](https://training.galaxyproject.org/training-material/topics/metabolomics/)
 * [<i class="fa fa-external-link-alt" aria-hidden="true">&nbsp; &nbsp;Galaxy Instance</i>](https://metabolomics.usegalaxy.eu/)
-</div>
+</div> -->
 
 <!-- Ecology -->
 <div class="card" style="min-width: 12rem; max-width: 20rem">
@@ -73,7 +73,7 @@ The Climate Science workbench is a comprehensive set of analysis tools and conso
 </div>
 
 <!-- Proteomics -->
-<div class="card" style="min-width: 12rem; max-width: 20rem">
+<!-- <div class="card" style="min-width: 12rem; max-width: 20rem">
 <a href="https://proteore.org/">
 <div class="card-header bg-wg-applied text-white text-center">Proteomics</div>
 </a>
@@ -84,7 +84,7 @@ Galaxy-based platform for the functional analysis and the interpretation of prot
 * [<i class="fa fa-external-link-alt" aria-hidden="true">&nbsp; &nbsp;Link</i>](https://proteore.org)
 * [<i class="fa fa-external-link-alt" aria-hidden="true">&nbsp; &nbsp;Galaxy Instance</i>](https://proteomics.usegalaxy.eu)
 
-</div>
+</div> -->
 
 <!-- Natural Language Processing -->
 <div class="card" style="min-width: 12rem; max-width: 20rem">
@@ -166,6 +166,20 @@ A Galaxy workbench with tools and workflows for materials science, including muo
 
 </div>
 
+<!-- Mass Spectrometry -->
+<div class="card" style="min-width: 12rem; max-width: 20rem">
+<a href="/community/sig/mass-spectrometry/">
+<div class="card-header bg-wg-applied text-white text-center">Mass Spectrometry</div>
+</a>
+
+Galaxy-based platform for processing and analysis of mass spectrometry data, supporting applications in all mass spectrometry based -omics.
+
+* [<b>[m]&nbsp; &nbsp;Matrix</b>](https://matrix.to/#/#galaxyproject_mass-spectrometry:matrix.org)
+* [<i class="fa fa-external-link-alt" aria-hidden="true">&nbsp; &nbsp;Galaxy-P</i>](https://proteomics.usegalaxy.eu)
+* [<i class="fa fa-external-link-alt" aria-hidden="true">&nbsp; &nbsp;W4M</i>](https://workflow4metabolomics.usegalaxy.fr/)
+
+</div>
+
 <!-- Single cell & sPatial Omics -->
 <div class="card" style="min-width: 12rem; max-width: 20rem">
 <a href="/community/sig/singlecell/">
@@ -199,7 +213,7 @@ Group of computational chemistry tool developers, trainers and users to help con
 
 ---
 
-# Regional Communities
+## Regional Communities
 
 <div class="card-deck">
 
